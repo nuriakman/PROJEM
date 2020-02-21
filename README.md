@@ -10,3 +10,5 @@ Amaç Burada Olacak
 Diğer açıklama eklendi
 
 ## Batuhan Kaya
+
+## Nuri Akman
