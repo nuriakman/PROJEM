@@ -1,2 +1,3 @@
 # PROJEM
-Açıklama
+
+Burada okul ödevimin proje dosyaları var.
