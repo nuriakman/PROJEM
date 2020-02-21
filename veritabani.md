@@ -6,5 +6,8 @@ Burada veritabanının açıklamaları olacak
 ## Yeni Tablolar
 
 
-### ayarlar
+### Ayarlar
 
+- Önce
+- Sonra
+- Akşama
