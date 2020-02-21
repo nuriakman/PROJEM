@@ -18,3 +18,5 @@ Diğer açıklama eklendi
 
 
 Yeni resim dosyaları eklendi
+
+- Sublime push etme gösterildi.
