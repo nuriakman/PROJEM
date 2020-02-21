@@ -1,3 +1,3 @@
 # Çisem Sezgin
 
-- Merhaba Çişem.
+- Merhaba Çisem.
