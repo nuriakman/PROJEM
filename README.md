@@ -15,3 +15,6 @@ Diğer açıklama eklendi
 
 ### YÜKSEK ÇÖZÜNÜRLÜKLÜ FOTOĞRAF YÜKLEMEMEYE ÖZEN GÖSTERELİM -BATUHAN
 ## Baki Öztürk
+
+
+Yeni resim dosyaları eklendi
