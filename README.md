@@ -14,3 +14,4 @@ Diğer açıklama eklendi
 ## Nuri Akman
 
 ### YÜKSEK ÇÖZÜNÜRLÜKLÜ FOTOĞRAF YÜKLEMEMEYE ÖZEN GÖSTERELİM -BATUHAN
+## Baki Öztürk
